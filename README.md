@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Guilherme!
+### 👋 Hello, I'm Guilherme!
 
 📚 Currently pursuing a degree in Computer Science at the State University of Maringá, in the 6th semester. I'm passionate about solving problems that require creativity and tackling challenges that are slightly complex.
 
