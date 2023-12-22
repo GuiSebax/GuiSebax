@@ -19,7 +19,7 @@
 - 🍵 Java
 - 🌐 HTML, CSS
 - 📚 SQL
-- 
+
 # Currently learning:
 
 - ⚛️ ReactJS
