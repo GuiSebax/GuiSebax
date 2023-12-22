@@ -14,7 +14,8 @@
 - 🐍 Python
 - 🌐 JavaScript (including Typescript)
 - 🍵 Java
-- 🌐 HTML, CSS
+- 🌐 HTML
+- 🖌️ CSS
 - 📚 SQL
 
 ### Currently learning:
