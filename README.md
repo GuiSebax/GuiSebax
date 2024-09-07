@@ -17,12 +17,11 @@ I am a proactive and determined enthusiast, always striving to do exceptional wo
 - HTML
 - CSS
 - SQL
-- AngularJS & SpringBoot
+- AngularJS 
 
 ### Currently learning:
 - ReactJS
-- NoSQL
-- VueJS
+- MongoDB
 
 ### Ongoing Projects
 Here you'll find some of the projects I've worked on throughout my course. Each project is an opportunity for learning and the practical application of my skills.
