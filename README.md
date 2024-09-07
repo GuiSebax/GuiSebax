@@ -5,7 +5,7 @@ I am a proactive and determined enthusiast, always striving to do exceptional wo
 
 ### Focus Areas
 - Design and Web Development
-- Full-Stack and Back-End Programming
+- Full-Stack and Front-End Programming
 - Database Management
 
 ### Technologies and Languages
