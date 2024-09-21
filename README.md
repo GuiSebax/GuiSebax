@@ -13,11 +13,14 @@ Currently pursuing a degree in Computer Science at the State University of Marin
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-Typescript-1572B6?style=for-the-badge&logo=typescript)
 
 #### - Backend:
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![◾️](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-Typescript-1572B6?style=for-the-badge&logo=typescript)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 #### - Database:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
