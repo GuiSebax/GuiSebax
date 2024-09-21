@@ -14,7 +14,7 @@ Currently pursuing a degree in Computer Science at the State University of Marin
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-Typescript-1572B6?style=for-the-badge&logo=typescript)
-![AngularJS](https://img.shields.io/badge/Angular-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AngularJS](https://img.shields.io/badge/Angularjs-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### - Backend:
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
