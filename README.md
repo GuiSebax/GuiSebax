@@ -1,4 +1,4 @@
-# Hello my name is Guilherme and this is my GitHub Repository 😓💌
+# Hello Sir, this is my GitHub Repository 😓💌
 
 Currently pursuing a degree in Computer Science at the State University of Maringá, in the 8th semester. I'm passionate about solving problems that require creativity and tackling challenges that are slightly complex.
 I am a proactive and determined enthusiast, always striving to do exceptional work. I believe teamwork is crucial, as collaborating with fellow developers enriches the problem-solving process.
