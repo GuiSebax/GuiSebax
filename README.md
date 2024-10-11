@@ -2,7 +2,7 @@
 
 Currently pursuing a degree in Computer Science at the State University of Maringá, in the 8th semester. I'm passionate about solving problems that require creativity and tackling challenges that are slightly complex. I am a proactive and determined enthusiast, always striving to do exceptional work. I believe teamwork is crucial, as collaborating with fellow developers enriches the problem-solving process.
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=GuiSebax&show_icons=true&locale=en&theme=tokyonight" alt="LilaLio" /></p>
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=KKKODAKI&show_icons=true&locale=en&theme=tokyonight" alt="LilaLio" /></p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
