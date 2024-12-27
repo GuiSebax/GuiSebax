@@ -32,8 +32,7 @@ Currently pursuing a degree in Computer Science at the State University of Marin
 
 ### Others:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
-![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwindcss-ED8B00?style=for-the-badge&logo=tailwindcss&logoColor=blue)
 
 ### Ongoing Projects
 Here you'll find some of the projects I've worked on throughout my course. Each project is an opportunity for learning and the practical application of my skills.
