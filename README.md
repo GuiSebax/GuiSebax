@@ -1,6 +1,6 @@
 # Hello Sir, this is my GitHub Repository 😓💌
 
-Currently pursuing a degree in Computer Science at the State University of Maringá, in the 8th semester. I'm passionate about solving problems that require creativity and tackling challenges that are slightly complex. I am a proactive and determined enthusiast, always striving to do exceptional work. I believe teamwork is crucial, as collaborating with fellow developers enriches the problem-solving process.
+Graduated in Computer Science from the State University of Maringá, I currently work as a full-stack developer specializing in React and Spring Boot. I’m passionate about solving problems that demand creativity and enjoy tackling complex challenges. Proactive and determined, I always strive to deliver exceptional work. I believe teamwork is crucial, as collaborating with fellow developers enriches the problem-solving process.
 
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=GuiSebax&show_icons=true&locale=en&theme=tokyonight" alt="GuiSebax" /></p>
 
@@ -39,5 +39,6 @@ Here you'll find some of the projects I've worked on throughout my course. Each 
 
 ### How to Reach Me
 - LinkedIn: [https://www.linkedin.com/in/guilherme-clemente-29064b230/]
+- Portfólio: [https://guisebax.github.io/Portfolio/]
 
 Let's build something amazing together!
