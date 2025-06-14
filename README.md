@@ -34,6 +34,8 @@ Graduated in Computer Science from the State University of Maringá, I currently
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwindcss-%2361DAFB?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSebax&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 ### Ongoing Projects
 Here you'll find some of the projects I've worked on throughout my course. Each project is an opportunity for learning and the practical application of my skills.
 
