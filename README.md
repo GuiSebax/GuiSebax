@@ -2,8 +2,8 @@
 
 Graduated in Computer Science from the State University of Maringá, I currently work as a full-stack developer specializing in React and Spring Boot. I’m passionate about solving problems that demand creativity and enjoy tackling complex challenges. Proactive and determined, I always strive to deliver exceptional work. I believe teamwork is crucial, as collaborating with fellow developers enriches the problem-solving process.
 
-<div>
-  <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=GuiSebax&show_icons=true&locale=en&theme=tokyonight" alt="GuiSebax" /></p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <p>&nbsp;<img src="https://readmestats.999857.xyz/api?username=GuiSebax&show_icons=true&locale=en&theme=tokyonight" alt="GuiSebax" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSebax&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="GuiSebax"/></p>
 </div>
 
