@@ -1,6 +1,8 @@
 # Hello Sir, this is my GitHub Repository 😓💌
 
-Graduated in Computer Science from the State University of Maringá, I currently work as a full-stack developer specializing in React and Spring Boot. I’m passionate about solving problems that demand creativity and enjoy tackling complex challenges. Proactive and determined, I always strive to deliver exceptional work. I believe teamwork is crucial, as collaborating with fellow developers enriches the problem-solving process.
+I’m Guilherme Clemente, a Computer Science graduate and Full-Stack Developer with 2+ years of hands-on experience building scalable web and mobile applications. I specialize in React, Spring Boot, PostgreSQL, and cloud-based solutions — combining strong backend architecture with engaging front-end experiences.
+
+ I'm passionate about turning complex problems into intuitive solutions. I also enjoy mentoring, collaborating with cross-functional teams, and applying AI tools to enhance productivity and automation.
 
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=GuiSebax&show_icons=true&locale=en&theme=tokyonight" alt="GuiSebax" /></p>
 
