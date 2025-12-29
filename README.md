@@ -23,7 +23,7 @@ I’m Guilherme Clemente, a Computer Science graduate and Full-Stack Developer w
 ![◾️](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Springboot-ED8B00?style=for-the-badge&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/Nextjs-ffffff?style=for-the-badge&logo=nestjs&logoColor=red)
+![NestJS](https://img.shields.io/badge/Nestjs-ffffff?style=for-the-badge&logo=nestjs&logoColor=red)
 
 #### - Database:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
