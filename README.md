@@ -16,7 +16,7 @@ I’m Guilherme Clemente, a Computer Science graduate and Full-Stack Developer w
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-Typescript-1572B6?style=for-the-badge&logo=typescript)
-![NextJS](https://img.shields.io/badge/Nextjs-ffffff?style=for-the-badge&logo=nextjs&logoColor=black)
+![NextJS](https://img.shields.io/badge/Nextjs-ffffff?style=for-the-badge&logo=next&logoColor=black)
 
 #### - Backend:
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
