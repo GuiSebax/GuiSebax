@@ -1,48 +1,85 @@
-# Hello Sir, this is my GitHub Repository 😓💌
+# 👋 Hi, I'm Guilherme Clemente
 
-I’m Guilherme Clemente, a Computer Science graduate and Full-Stack Developer with 2+ years of hands-on experience building scalable web and mobile applications. I specialize in React, Spring Boot, PostgreSQL, and cloud-based solutions — combining strong backend architecture with engaging front-end experiences.
+I'm a **Mid-Level Full-Stack Developer** with over **2+ years of hands-on experience** building scalable web applications, APIs, and SaaS-oriented systems.
 
- I'm passionate about turning complex problems into intuitive solutions. I also enjoy mentoring, collaborating with cross-functional teams, and applying AI tools to enhance productivity and automation.
+I specialize in **React, Next.js, Spring Boot, NestJS, PostgreSQL, and Node.js**, with a strong focus on **backend architecture**, **clean code**, and **maintainable systems**. I enjoy working across the stack — from designing APIs and database models to crafting responsive and intuitive user interfaces.
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=GuiSebax&show_icons=true&locale=en&theme=tokyonight" alt="GuiSebax" /></p>
+I’m also experienced in using **AI tools (including OpenAI APIs)** to improve productivity, automate workflows, and enhance application features in real-world projects.
 
-## 🔨 Languages & Frameworks & Skills ⭐️:
+---
 
-### Web Design & Development 💻:
-#### - Frontend:
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-Typescript-1572B6?style=for-the-badge&logo=typescript)
-![NextJS](https://img.shields.io/badge/Nextjs-ffffff?style=for-the-badge&logo=next.js&logoColor=black)
+## 🚀 What I Work With
 
-#### - Backend:
-![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![◾️](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Springboot-ED8B00?style=for-the-badge&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/Nestjs-ffffff?style=for-the-badge&logo=nestjs&logoColor=red)
+### 🖥️ Frontend
+- React & Next.js (SPA & SSR)
+- TypeScript
+- Tailwind CSS
+- Component-driven architecture
+- Performance and UX-focused development
+- React Native (mobile apps)
 
-#### - Database:
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=darkblue)
+### ⚙️ Backend
+- Node.js & Express
+- NestJS (modular and scalable APIs)
+- Spring Boot (enterprise-grade backend)
+- REST APIs & authentication flows (JWT)
+- Business rules and service-layer design
 
-#### - Hosting Services and Web Tools:
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🗄️ Databases
+- PostgreSQL (preferred)
+- MySQL
+- MongoDB
+- Data modeling and query optimization
 
-### Others:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwindcss-%2361DAFB?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### ☁️ Platforms & Tools
+- SaaS-oriented architecture
+- OpenAI / AI-assisted features
+- Vite
+- Prisma
+- Postman
+- Git & GitHub
 
-### Ongoing Projects
-Here you'll find some of the projects I've worked on throughout my course. Each project is an opportunity for learning and the practical application of my skills.
+---
 
-### How to Reach Me
-- LinkedIn: [https://www.linkedin.com/in/guilherme-clemente-29064b230/]
-- Portfólio: [https://guisebax.github.io/Portfolio/]
+## 🧠 Engineering Mindset
 
-Let's build something amazing together!
+- I care about **architecture before implementation**
+- I value **code clarity and long-term maintainability**
+- I know when logic belongs in the backend, frontend, or database
+- I’m comfortable reviewing, refactoring, and improving existing systems
+- I see AI as a **tool**, not a replacement for technical understanding
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://readmestats.999857.xyz/api?username=GuiSebax&show_icons=true&locale=en&theme=tokyonight" alt="GuiSebax" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+This profile includes projects involving:
+- Fullstack applications (React + Node / Spring)
+- REST APIs with authentication
+- SaaS experiments and internal tools
+- AI-assisted features and automation
+- Express vs NestJS architecture comparisons
+
+Each repository reflects real technical decisions and learning outcomes.
+
+---
+
+## 📬 How to Reach Me
+
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/guilherme-clemente-29064b230/
+
+- 🌐 Portfolio:  
+  https://guisebax.github.io/Portfolio/
+
+---
+
+Let’s build scalable and meaningful software together.
