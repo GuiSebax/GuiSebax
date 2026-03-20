@@ -78,7 +78,7 @@ Each repository reflects real technical decisions and learning outcomes.
   https://www.linkedin.com/in/guilherme-clemente-29064b230/
 
 - 🌐 Portfolio:  
-  https://guisebax.github.io/Portfolio/
+  [https://midlevel-dev.vercel.app/](https://midlevel-dev.vercel.app/)
 
 ---
 
