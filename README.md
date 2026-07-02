@@ -1,85 +1,193 @@
 # 👋 Hi, I'm Guilherme Clemente
 
-I'm a **Mid-Level Full-Stack Developer** with over **2+ years of hands-on experience** building scalable web applications, APIs, and SaaS-oriented systems.
+## Full Stack Software Engineer
 
-I specialize in **React, Next.js, Spring Boot, NestJS, PostgreSQL, and Node.js**, with a strong focus on **backend architecture**, **clean code**, and **maintainable systems**. I enjoy working across the stack — from designing APIs and database models to crafting responsive and intuitive user interfaces.
+I build **production-ready SaaS applications, scalable APIs, and modern web platforms** using **React, Next.js, Spring Boot, NestJS, Node.js, and PostgreSQL**.
 
-I’m also experienced in using **AI tools (including OpenAI APIs)** to improve productivity, automate workflows, and enhance application features in real-world projects.
+Currently, I work as a **Full Stack Developer**, developing commercial management systems where I design REST APIs, implement business rules, model relational databases, and build responsive user interfaces.
+
+Outside of work, I enjoy creating portfolio projects focused on **software architecture**, **scalability**, and **clean engineering practices**.
 
 ---
 
-## 🚀 What I Work With
+# 🚀 Tech Stack
 
-### 🖥️ Frontend
-- React & Next.js (SPA & SSR)
+## Frontend
+
+- React
+- Next.js
 - TypeScript
 - Tailwind CSS
-- Component-driven architecture
-- Performance and UX-focused development
-- React Native (mobile apps)
+- React Native
+- Vite
 
-### ⚙️ Backend
-- Node.js & Express
-- NestJS (modular and scalable APIs)
-- Spring Boot (enterprise-grade backend)
-- REST APIs & authentication flows (JWT)
-- Business rules and service-layer design
+## Backend
 
-### 🗄️ Databases
-- PostgreSQL (preferred)
+- Spring Boot
+- NestJS
+- Express
+- Node.js
+- Java
+- REST APIs
+- JWT Authentication
+
+## Database
+
+- PostgreSQL
 - MySQL
 - MongoDB
-- Data modeling and query optimization
+- SQLite
+- Prisma ORM
+- Drizzle ORM
 
-### ☁️ Platforms & Tools
-- SaaS-oriented architecture
-- OpenAI / AI-assisted features
-- Vite
-- Prisma
-- Postman
+## Cloud & Tools
+
+- Docker
+- AWS
 - Git & GitHub
+- Postman
+- Redis
+- BullMQ
+- Stripe
+- Anthropic API
+- Vercel
+- Railway
 
 ---
 
-## 🧠 Engineering Mindset
+# 🧠 Engineering Mindset
 
-- I care about **architecture before implementation**
-- I value **code clarity and long-term maintainability**
-- I know when logic belongs in the backend, frontend, or database
-- I’m comfortable reviewing, refactoring, and improving existing systems
-- I see AI as a **tool**, not a replacement for technical understanding
+I enjoy designing maintainable software before writing code.
+
+Some principles I apply regularly:
+
+- Clean Architecture
+- SOLID Principles
+- Service Layer Pattern
+- Repository Pattern
+- Dependency Injection
+- REST API Design
+- Database Modeling
+- Authentication & Authorization
+- Performance-Oriented Development
+- Code Review & Refactoring
+
+I believe software should be **simple, scalable, and easy to maintain**.
 
 ---
 
-## 📊 GitHub Stats
+# 📂 Featured Projects
+
+## 🚀 SaaS Multi-Tenant Billing
+
+Production-inspired SaaS platform built with enterprise concepts.
+
+**Highlights**
+
+- Multi-tenancy
+- JWT Authentication
+- PostgreSQL Row Level Security
+- Stripe Billing
+- Background Jobs with BullMQ
+- Redis
+- Email Automation
+- Role-based Authorization
+
+**Stack**
+
+Next.js • NestJS • PostgreSQL • Drizzle ORM • Stripe • Redis
+
+➡️ https://github.com/GuiSebax/SaaS-Multi-Tenant-Billing
+
+---
+
+## 🛒 Marketplace
+
+Full Stack marketplace built to practice scalable architecture and communication between frontend and backend.
+
+**Stack**
+
+React • Express • TypeScript • PostgreSQL
+
+➡️ https://github.com/GuiSebax/MarketPlace
+
+---
+
+## ⚙️ NestJS vs Express
+
+Two equivalent backend applications comparing architecture, scalability, maintainability, and developer experience between Express and NestJS.
+
+➡️ https://github.com/GuiSebax/Nest-Express-API
+
+---
+
+## ✅ Task Manager
+
+Complete task management application with authentication, categories, priorities, and modern UI.
+
+**Stack**
+
+Next.js • Fastify • PostgreSQL • Prisma • Clerk
+
+➡️ https://github.com/GuiSebax/task-manager
+
+---
+
+## 🌐 Padilha Legal Hub
+
+Institutional website developed for a law firm, focused on responsiveness, accessibility, and performance.
+
+➡️ https://github.com/GuiSebax/padilha-legal-hub
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readmestats.999857.xyz/api?username=GuiSebax&show_icons=true&locale=en&theme=tokyonight" alt="GuiSebax" />
+  <img src="https://readmestats.999857.xyz/api?username=GuiSebax&show_icons=true&locale=en&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSebax&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+# 📈 Currently Working On
 
-This profile includes projects involving:
-- Fullstack applications (React + Node / Spring)
-- REST APIs with authentication
-- SaaS experiments and internal tools
-- AI-assisted features and automation
-- Express vs NestJS architecture comparisons
-
-Each repository reflects real technical decisions and learning outcomes.
+- Enterprise Spring Boot applications
+- SaaS platforms
+- AI-assisted development workflows
+- Backend architecture
+- Next.js App Router
+- PostgreSQL optimization
 
 ---
 
-## 📬 How to Reach Me
+# 📚 Currently Learning
 
-- 💼 LinkedIn:  
-  https://www.linkedin.com/in/guilherme-clemente-29064b230/
-
-- 🌐 Portfolio:  
-  [https://midlevel-dev.vercel.app/](https://midlevel-dev.vercel.app/)
+- Kubernetes
+- AWS Services
+- Microservices
+- Event-Driven Architecture
+- Distributed Systems
 
 ---
 
-Let’s build scalable and meaningful software together.
+# 🤝 Let's Connect
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/guilherme-clemente-29064b230/
+
+🌐 Portfolio
+
+https://midlevel-dev.vercel.app/
+
+📧 Email
+
+guiclemente2003@gmail.com
+
+---
+
+> *I enjoy building software that solves real business problems while keeping architecture, maintainability, and scalability as first-class priorities.*
