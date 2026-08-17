@@ -81,11 +81,6 @@ I believe software should be **simple, scalable, and easy to maintain**.
 <p align="center">
   <img src="https://readmestats.999857.xyz/api?username=GuiSebax&show_icons=true&locale=en&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSebax&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 # 📈 Currently Working On
