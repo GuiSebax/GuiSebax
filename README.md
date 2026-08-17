@@ -76,13 +76,6 @@ I believe software should be **simple, scalable, and easy to maintain**.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-dev&show_icons=true&locale=en&theme=tokyonight" />
-</p>
----
-
 # 📈 Currently Working On
 
 - Enterprise Spring Boot applications
