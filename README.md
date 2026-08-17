@@ -79,7 +79,7 @@ I believe software should be **simple, scalable, and easy to maintain**.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuiSebax&show_icons=true&locale=en&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-dev&show_icons=true&locale=en&theme=tokyonight" />
 </p>
 ---
 
