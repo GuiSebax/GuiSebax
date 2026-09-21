@@ -84,11 +84,4 @@ I believe software should be **simple, scalable, and easy to maintain**.
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=GuiSebax&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSebax&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 > *I enjoy building software that solves real business problems while keeping architecture, maintainability, and scalability as first-class priorities.*
